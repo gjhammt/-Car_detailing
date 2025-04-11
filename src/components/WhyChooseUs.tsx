@@ -34,7 +34,7 @@ const WhyChooseUs = () => {
     <section className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <h2 className="text-4xl font-bold text-center text-gray-900 mb-4">
-          Why Elite Shine Stands Out
+          Why Pristine Details Stands Out
         </h2>
         <p className="text-xl text-center text-gray-600 mb-12">
           Experience the difference of professional detailing
@@ -59,7 +59,7 @@ const WhyChooseUs = () => {
 
         <div className="relative rounded-xl overflow-hidden">
           <img
-            src="https://images.unsplash.com/photo-1600709415011-324b6f242b71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+            src="https://unsplash.com/photos/man-in-black-t-shirt-and-black-pants-doing-water-splash-on-black-coupe-during-daytime-eP8h7YVhFHk"
             alt="Before and After Comparison"
             className="w-full h-[400px] object-cover"
           />
