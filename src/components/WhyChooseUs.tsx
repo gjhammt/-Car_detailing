@@ -59,7 +59,7 @@ const WhyChooseUs = () => {
 
         <div className="relative rounded-xl overflow-hidden">
           <img
-            src="https://unsplash.com/photos/man-in-black-t-shirt-and-black-pants-doing-water-splash-on-black-coupe-during-daytime-eP8h7YVhFHk"
+            src="https://images.unsplash.com/photo-1601362840469-51e4d8d58785?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
             alt="Before and After Comparison"
             className="w-full h-[400px] object-cover"
           />
