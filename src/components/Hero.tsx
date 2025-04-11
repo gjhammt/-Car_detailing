@@ -12,7 +12,7 @@ const Hero = () => {
           <div className="flex justify-between items-center">
             {/* Logo */}
             <div className="flex items-center">
-              <span className="text-2xl font-bold text-white">EliteShine</span>
+              <span className="text-2xl font-bold text-white">PristineDetail</span>
               <span className="text-2xl font-bold text-blue-400">.</span>
             </div>
 
@@ -96,7 +96,7 @@ const Hero = () => {
       <div className="relative z-10 container mx-auto px-4 py-32 pt-40">
         <div className="max-w-3xl">
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-6">
-            Premium Car Detailing Services – Restore Your Car's Showroom Shine!
+            Premium Car Detailing Services 
           </h1>
           <p className="text-xl md:text-2xl text-gray-200 mb-8">
             Expert Detailing, Ceramic Coatings & Paint Correction – Book Online Today!
