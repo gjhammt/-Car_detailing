@@ -13,7 +13,7 @@ const images = [
   },
   {
     before: 'https://images.unsplash.com/photo-1605515298946-d664fc6fe14e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
-    after: 'https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80,
+    after: 'https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80',
     title: 'Paint Correction',
   },
 ];
