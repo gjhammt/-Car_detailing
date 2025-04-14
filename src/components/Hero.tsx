@@ -12,7 +12,7 @@ const Hero = () => {
           <div className="flex justify-between items-center">
             {/* Logo */}
             <div className="flex items-center">
-              <span className="text-2xl font-bold text-white">PristineDetail</span>
+              <span className="text-2xl font-bold text-white">4Ten</span>
               <span className="text-2xl font-bold text-blue-400">.</span>
             </div>
 
