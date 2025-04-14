@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4">Elite Shine Detailing</h3>
+            <h3 className="text-2xl font-bold mb-4">4Ten Detailing</h3>
             <p className="text-gray-400">
               Premium car detailing services for those who demand excellence.
             </p>
