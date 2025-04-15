@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <form className="bg-white rounded-xl shadow-lg p-8">
+          <form className="bg-white rounded-xl shadow-lg p-8" data-netlify="true">
             <div className="space-y-6">
               <div>
                 <label className="block text-gray-700 font-medium mb-2">
@@ -57,6 +57,7 @@ const Contact = () => {
                 </label>
                 <input
                   type="text"
+                  name="name"
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                   placeholder="Your name"
                 />
@@ -68,6 +69,7 @@ const Contact = () => {
                 </label>
                 <input
                   type="email"
+                  email="email"
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                   placeholder="Your email"
                 />
@@ -79,6 +81,7 @@ const Contact = () => {
                 </label>
                 <input
                   type="tel"
+                  name="phone"
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                   placeholder="Your phone number"
                 />
@@ -88,7 +91,7 @@ const Contact = () => {
                 <label className="block text-gray-700 font-medium mb-2">
                   Service
                 </label>
-                <select className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <select name="service" className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500">
                   <option value="">Select a service</option>
                   <option value="basic">Basic Wash & Wax</option>
                   <option value="interior">Interior Detailing</option>
@@ -105,6 +108,7 @@ const Contact = () => {
                 <textarea
                   className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
                   rows={4}
+                  name="message"
                   placeholder="Tell us about your car and requirements"
                 ></textarea>
               </div>
