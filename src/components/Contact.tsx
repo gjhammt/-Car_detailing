@@ -49,7 +49,7 @@ const Contact = () => {
             </div>
           </div>
 
-          <form className="bg-white rounded-xl shadow-lg p-8" data-netlify="true">
+          <form className="bg-white rounded-xl shadow-lg p-8" name="contact" netlify data-netlify=true netlify-honeypot="bot-field">
             <div className="space-y-6">
               <div>
                 <label className="block text-gray-700 font-medium mb-2">
